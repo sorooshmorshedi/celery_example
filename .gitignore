@@ -1,0 +1,7 @@
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+db.sqlite3
+generated_file.txt
+senv
+.idea/
